@@ -5,7 +5,7 @@ Demo的运行gif图如下：
 
 ![example5.gif](http://upload-images.jianshu.io/upload_images/3873004-91f6923a8fc230d3.gif?imageMogr2/auto-orient/strip)
 
-### iOS多线程详细讲解请看这里：iOS多线程
+### iOS多线程详细讲解请看这里：**[iOS多线程](http://www.jianshu.com/p/7649fad15cdb)**
 
 下面是文章的摘选：
 
@@ -84,4 +84,4 @@ atomic：线程安全，需要消耗大量的资源
 nonatomic：非线程安全，不过效率更高，一般使用nonatomic
 ```
 
-### NSThread，GCD，NSOperation的理解与使用，请到这里继续阅读：iOS多线程
+### NSThread，GCD，NSOperation的理解与使用，请到这里继续阅读：**[iOS多线程](http://www.jianshu.com/p/7649fad15cdb)**
